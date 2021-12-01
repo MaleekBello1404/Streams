@@ -46,10 +46,6 @@ p{
      width: 100%;
  }
 
-.logo h1{
-    letter-spacing: 0.8em;
-}
-
  code, pre {
      background: #333;
      color: #fff;
@@ -85,6 +81,10 @@ p{
  .navbar .flex{
      justify-content: space-between;
  }
+
+.navbar h1{
+    letter-spacing: 0.8em;   
+}
 
  /* Showcase */
 .showcase{
